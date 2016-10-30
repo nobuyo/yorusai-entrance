@@ -1,5 +1,7 @@
 # Yorusai-Entrance
 
+このプロジェクトは[13j-programmers/yorusai-entrance](https://github.com/13J-Programmers/yorusai-entrance)に移動されました
+
 文化祭夜の部の入場者を記録、抽選の無駄を省く
 
 ## Devices and Environment
